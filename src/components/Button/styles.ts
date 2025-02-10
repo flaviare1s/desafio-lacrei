@@ -15,7 +15,7 @@ export const StyledButton = styled.a`
   transition: background-color 0.3s;
 
   &:hover {
-    background-color: #014687;
+    opacity: 90%;
   }
 
   span {
