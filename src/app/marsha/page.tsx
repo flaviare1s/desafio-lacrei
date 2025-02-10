@@ -18,7 +18,7 @@ export default function SobreMarsha() {
         <S.TextWrapper>
           <h1>Por que a Marsha é tão importante?</h1>
           <p>
-            Há 50 anos, <strong>Marsha P. Johnson</strong> estava na linh de
+            Há 50 anos, <strong>Marsha P. Johnson</strong> estava na linha de
             frente da Rebelião de Stonewall Inn, um marco crucial para os
             direitos dos homossexuais e transexuais, ocorrido em 28 de junho de
             1969 em Nova York. Esse confronto com a polícia, iniciado por uma
@@ -27,7 +27,7 @@ export default function SobreMarsha() {
             comunidade LGBTQIAPN+.
           </p>
           <p>
-            A importância desses eventos é tão significativa que junho foi
+            A importância desses eventos é tão significativa, que junho foi
             designado como o mês do Orgulho LGBTQIAPN+.
           </p>
         </S.TextWrapper>
