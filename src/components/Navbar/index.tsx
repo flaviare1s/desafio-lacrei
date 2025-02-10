@@ -11,7 +11,7 @@ export default function Navbar() {
       </S.NavItem>
       <S.NavItem>
         <Link href="/marsha">
-          <S.StyledLink>Marsha Johnson</S.StyledLink>
+          <S.StyledLink>Marsha</S.StyledLink>
         </Link>
       </S.NavItem>
     </S.NavList>

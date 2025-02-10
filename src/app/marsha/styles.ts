@@ -5,7 +5,7 @@ export const MainContainer = styled.main`
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
 `;
 
 export const ContentWrapper = styled.div`
