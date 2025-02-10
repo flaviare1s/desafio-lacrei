@@ -15,4 +15,8 @@ export const GlobalStyles = createGlobalStyle`
   body, button, input {
     font-family: 'Nunito', serif;
   }
+
+  a {
+    text-decoration: none;
+  }
 `;
