@@ -12,10 +12,11 @@ export const StyledButton = styled.a`
   text-decoration: none;
   border-radius: 8px;
   cursor: pointer;
-  transition: background-color 0.3s;
+  transition: filter 0.3s;
 
   &:hover {
-    opacity: 90%;
+    filter: brightness(1.2);
+    transition: filter 0.3s;
   }
 
   span {
